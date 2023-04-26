@@ -1,0 +1,26 @@
+manter binário do lado esquerdo e direito senão fica inativo
+
+quando atingir tres vezes o valor do plano obrigatório comprar um novo
+
+
+indicação direta o pai recebe 10% do valor
+se for recompra o pai não recebe esses 10% 
+
+
+o pagamento é feito 10% do lado equilibrado e é deletado o valor do menor do montante maior
+
+buyback só conegue comprar planos dentro do sistema
+
+valor do binario é a pontuação do binario
+
+indicações é o valor direto
+
+
+
+
+
+
+
+
+escalada do sucesso premiações (próximos deploys)
+    
