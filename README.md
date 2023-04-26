@@ -3,7 +3,6 @@
 1. [Introduction](#introduction)
    * [Overview](#overview)
    * [Requirements](#requirements)
-   * [Showcase](#showcase)
    * [Links](#links)
 2  [Libraries and tools](#tools)
 3. [TODO](#todo)  
@@ -21,21 +20,7 @@
 Suggestic Code Challenge
 
 Create a web service using any framework that flattens a nested sequence into a single list of values.
-    
-
-<a name="showcase" />
-
-## Showcase
-
-<p align="center">
-
-  <img src="showcase/showcase_1.png" align="center" width=150>
-  <img src="showcase/showcase_2.png" align="center" width=150>
-  <img src="showcase/showcase_3.png" align="center" width=150>
-  <img src="showcase/showcase_4.png" align="center" width=150>
-
-</p>
-
+ 
 <a name="links" />
 
 ## Links
